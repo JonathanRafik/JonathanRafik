@@ -22,25 +22,29 @@
 <!-- Linguagens mais usadas -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas"
-    >Eu tenho conhecimento e domio de todas principais linguagem basicas da programacao
+    >
+<p  Eu tenho conhecimento e domio de todas principais linguagem basicas da programacao
   (Python
 JavaScript
 Java
 C++
-C#) com tenho domio maior de ferramentas do que das prorias liguagens 
-</p>
-
+C#) </p>
 <!-- Status do perfil -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="Streak">
 </p>
 
 <!-- Tecnologias -->
-<h2>Power BI,Exel Avacando,App,Apple (macOS) 🍏  
-1. Finder  
-2. Safari  
-3. Spotlight  
-4. iCloud Drive  
+<h2>
+ 
+  Exel Avacando 
+App
+   Apple 
+  (macOS) 🍏  
+. Finder  
+. Safari  
+. Spotlight  
+. iCloud Drive  
 5. Terminal  
 
 Linux 🐧  
