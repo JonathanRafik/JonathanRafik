@@ -21,7 +21,12 @@
 
 <!-- Linguagens mais usadas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">Eu tenho conhecimento e domio de todas principais linguagem basicas da programacao
+  (Python
+JavaScript
+Java
+C++
+C#) com tenho domio maior de ferramentas do que das prorias liguagens 
 </p>
 
 <!-- Status do perfil -->
@@ -30,7 +35,26 @@
 </p>
 
 <!-- Tecnologias -->
-<h2>Tecnologias que uso 🚀</h2>
+<h2>Power BI,Exel Avacando,App,Apple (macOS) 🍏  
+1. Finder  
+2. Safari  
+3. Spotlight  
+4. iCloud Drive  
+5. Terminal  
+
+Linux 🐧  
+6. Bash  
+7. LibreOffice  
+8. GIMP  
+9. Docker  
+10. Vim  
+
+Microsoft (Windows) 🖥  
+11. File Explorer  
+12. Microsoft Edge  
+13. Task Manager  
+14. Microsoft Defender  
+15. Microsoft Office  🚀</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
