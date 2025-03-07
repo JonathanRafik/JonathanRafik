@@ -21,7 +21,8 @@
 
 <!-- Linguagens mais usadas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">Eu tenho conhecimento e domio de todas principais linguagem basicas da programacao
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas"
+    >Eu tenho conhecimento e domio de todas principais linguagem basicas da programacao
   (Python
 JavaScript
 Java
